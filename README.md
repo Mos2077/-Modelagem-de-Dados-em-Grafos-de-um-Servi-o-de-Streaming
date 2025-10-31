@@ -1,2 +1,3 @@
-# -Modelagem-de-Dados-em-Grafos-de-um-Servi-o-de-Streaming
-Criando uma modelagem de dados em grafos de filmes
+# Modelagem de Dados em Grafos de um Serviço de Streaming
+
+## Criando uma modelagem de dados em grafos de filmes de terror, suspense, drama e ficção-cientifica
