@@ -2,5 +2,6 @@
 
 ## Criando uma modelagem de dados em grafos de filmes de terror, suspense, drama e ficção-cientifica
 
-# Imagem ilustrativa do desenvolvimento:
+
+## Imagem ilustrativa do desenvolvimento do grafo:
 <img src="Untitled graph.png">
