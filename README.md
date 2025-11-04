@@ -5,3 +5,6 @@
 
 ## Imagem ilustrativa do desenvolvimento do grafo:
 <img src="Untitled graph.png">
+
+### Segunda Imagem: 
+<img src="Untitled graph (4).png">
